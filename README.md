@@ -1,45 +1,34 @@
-This is a sample README.md file you can use to update your project. New project repos will use this template when they are created.
-
 # Food Bank (Commons)
 Please replace with your projects name
 
 # Project Overview
 ## Vision & Goals
-Please replace with your projects vision.
-* Goal 1
-* Goal 2
+* We are starting with outlining all of the different general use cases for Food Pantries. So from that list we can identify where we can build out something.
 
 ## Project Vertical
-Please replace with Nonprofit, Education, or Other (if Other, explain further)
-
-## Trailblazer Group or Slack Channel Link (access required)
-Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.
-
-## How to Contribute:
-- Way 1.
-- Way 2. 
-- Way 3. 
+Nonprofit - Food Pantry/Food Bank/Food Distrubtion
 
 ## Project Resources and Documentation
-Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
+Documentation can be found Google Drive (https://drive.google.com/drive/u/0/folders/152QVonNz6T0esO97PGK2l4CQjbiLdDI7) for people who are part of the group.
 
 
-***
-BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR SPRINT PARTICIPATION. 
-1. Cut the below from the readme and paste into a new Wiki page. Delete these instructions.
-2. Update that wiki page with details from the Sprint. 
-3. Copy that format for the next Sprint.
-
-# Sprint (DATE): 
+# Sprint NYC March 2023: 
 ## Project Team & Accomplishments
 Add details here - what you did, links to docs if there are any, etc.
 
 ## Contributors
 
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Full Name            | Team Role     | Github Username               
+Amy Bucciferro | Group Leader | amymarieb
+Annemarie Forgie | Contributor | atforgie
+Archer Anasco | Contributor | 
+Deanne Walters | Contributor | databaseDeanne
+Irwin Horowitz | Contributor | IrwinHorowitz
+Jason Norat | Contributor | jnorat
+Kaisha Vilcinor | Contributor | kvilcinor
+Michael Masullo | Contributor | MikeM315
+Rashi Desai | Contributor | Rashi-Desai
+Theodore Theoharis | Contributor | 
 
 ## Future Contributions 
 (AKA what were you unable to finish at the Sprint)
