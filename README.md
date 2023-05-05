@@ -1,4 +1,4 @@
-# Food Bank (Commons)
+# Food Pantry Data Model Solution (Commons)
 Please replace with your projects name
 
 # Project Overview
@@ -33,7 +33,10 @@ Rashi Desai | Contributor | Rashi-Desai
 Theodore Theoharis | Contributor | 
 
 ## Future Contributions 
-An editable ERD to make changes from the original Impact Labs data model
+- An editable ERD to make changes from the original Impact Labs data model
+- Refinement of Solution Outline
+- Add to User Stories
+- Identify a pilot process
 
 ***
 
