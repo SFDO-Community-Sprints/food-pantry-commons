@@ -33,8 +33,7 @@ Rashi Desai | Contributor | Rashi-Desai
 Theodore Theoharis | Contributor | 
 
 ## Future Contributions 
-(AKA what were you unable to finish at the Sprint)
-Replace with the goals your team would like to continue working on next time.
+An editable ERD to make changes from the original Impact Labs data model
 
 ***
 
