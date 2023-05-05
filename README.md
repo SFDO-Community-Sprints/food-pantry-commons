@@ -22,7 +22,7 @@ Full Name            | Team Role     | Github Username
 ------------- | ------------- | ------------- 
 Amy Bucciferro | Group Leader | amymarieb
 Annemarie Forgie | Contributor | atforgie
-Archer Anasco | Contributor | 
+Archer Anasco | Contributor | aanasco888
 Deanne Walters | Contributor | databaseDeanne
 Irwin Horowitz | Contributor | IrwinHorowitz
 Jason Norat | Contributor | jnorat
