@@ -33,10 +33,12 @@ Rashi Desai | Contributor | Rashi-Desai
 Theodore Theoharis | Contributor | 
 
 ## Future Contributions 
+- Develop project leadership to shepard the project forward
 - An editable ERD to make changes from the original Impact Labs data model
 - Refinement of Solution Outline
 - Add to User Stories
 - Identify a pilot process
+- Consider the format for a solution delivery
 
 ***
 
