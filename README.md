@@ -18,7 +18,8 @@ Add details here - what you did, links to docs if there are any, etc.
 
 ## Contributors
 
-Full Name            | Team Role     | Github Username               
+Full Name            | Team Role     | Github Username      
+------------- | ------------- | ------------- 
 Amy Bucciferro | Group Leader | amymarieb
 Annemarie Forgie | Contributor | atforgie
 Archer Anasco | Contributor | 
